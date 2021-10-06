@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello World!";
-echo "Hello World!";
-echo "Hello World!";
+echo "Azure Lab9a";
+echo "104 Azure Admininstration";
+echo "Deployment app";
 ?>
