@@ -10,4 +10,5 @@ echo "Hello Dani";
 echo "Hello shabi";
 echo "Hello Ibtasam";
 echo "Hello Ibtasam Amjad";
+echo "Hello Syed Minhal Naqvi";
 ?>
